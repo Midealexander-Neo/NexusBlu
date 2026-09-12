@@ -1,0 +1,28 @@
+import time 
+import datetime
+#                    Intro
+print("Hey I'm Nex short for NexusBlu")
+time.sleep(2)
+print("who are you")
+user = input("")
+print(f"Nice to meet you, {user}.\n")
+colours = ["red","yellow","blue","indigo","violet"]
+#                    Color List
+print(type(colours))
+print("OH you have a saved list")
+print("I am reading it out")
+print(colours)
+print("oh this is a list of colors")
+colours.append("Black",)
+print("oh a new color was added by the Dev")
+print(colours)
+time.sleep(1)
+print("The Color Black was added")
+#                         lag
+print("&*(&^&*^&^&^%$#$%^%$")
+time.sleep(0.7)
+print("sorry developer bug")
+print("Synethic software lag no issue")
+print("Lets sort you colors they are kinda messy")
+colours.sort()
+print(colours)
